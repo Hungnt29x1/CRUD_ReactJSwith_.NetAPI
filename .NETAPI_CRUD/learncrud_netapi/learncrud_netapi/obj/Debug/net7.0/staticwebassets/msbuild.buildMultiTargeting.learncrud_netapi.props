@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\learncrud_netapi.props" />
+</Project>
